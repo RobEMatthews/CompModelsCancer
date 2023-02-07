@@ -1,0 +1,17 @@
+CHROMOPHORES:
+hbo2
+hb
+water
+lipid
+bile
+methb
+
+FLUOROPHORES:
+collagen
+elastin
+flavin
+lipopim
+nadh
+pirodox
+porphyr
+tryptop
